@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29987
   title: སློབ་འབྲིང་བོད་ཡིག་སློབ་ཐབས།
-  volume: ''
+  volume:
+    6e2b8c81c5ea4dab911c0eb51f22b2ae:
+      image_group_id: I1KG22659
+      title: Volume 1 of slob 'bring bod yig slob thabs
+      volume_number: 1
+      total_pages: 466
   author: ''
+ebook_metadata:
+  title: སློབ་འབྲིང་བོད་ཡིག་སློབ་ཐབས།
+  author: ''
+  sku: P000341
+  cover: cover.jpg
+  layers:
+  - pagination
